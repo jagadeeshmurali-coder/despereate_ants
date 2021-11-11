@@ -1,0 +1,4 @@
+<Email>
+	<subject id="subject">Hi</subject>
+	<body id="mailbody">This is just a body</body>
+</Email>
